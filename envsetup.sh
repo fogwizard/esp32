@@ -1,2 +1,2 @@
-export PATH=$PATH:/home/fog/esp/xtensa-esp32-elf/bin
-export IDF_PATH=~/esp/esp-idf
+export PATH=$PATH:$(pwd)/xtensa-esp32-elf/bin
+export IDF_PATH=$(pwd)/esp-idf
