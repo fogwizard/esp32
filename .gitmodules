@@ -1,3 +1,6 @@
 [submodule "esp32_mqtt"]
 	path = esp32_mqtt
 	url = https://github.com/fogwizard/esp32_mqtt.git
+[submodule "esp-idf"]
+	path = esp-idf
+	url = https://github.com/espressif/esp-idf.git
